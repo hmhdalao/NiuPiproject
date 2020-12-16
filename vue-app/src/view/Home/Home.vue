@@ -1,6 +1,6 @@
 <template>
     <div>
-        哈哈哈哈哈
+        我是child2
     </div>
 </template>
 
