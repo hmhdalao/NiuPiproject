@@ -5,6 +5,7 @@
 
         我是child2
 
+        哈哈哈哈
     </div>
 </template>
 
