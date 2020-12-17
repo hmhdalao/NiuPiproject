@@ -1,6 +1,10 @@
 <template>
     <div>
+
         我是child1
+
+        我是child2
+
     </div>
 </template>
 
